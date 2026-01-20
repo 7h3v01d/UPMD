@@ -1,10 +1,20 @@
 # U.P.M.D: Ultra-Packed Machine-Readable Database
 
-UPMD Logo 
-GitHub license
-GitHub issues
-GitHub stars
-GitHub forks
+⚠️ **LICENSE & USAGE NOTICE — READ FIRST**
+
+This repository is **source-available for private technical evaluation and testing only**.
+
+- ❌ No commercial use  
+- ❌ No production use  
+- ❌ No academic, institutional, or government use  
+- ❌ No research, benchmarking, or publication  
+- ❌ No redistribution, sublicensing, or derivative works  
+- ❌ No independent development based on this code  
+
+All rights remain exclusively with the author.  
+Use of this software constitutes acceptance of the terms defined in **LICENSE.txt**.
+
+---
 
 ## Overview
 The Ultra-Packed Machine-Readable Database (U.P.M.D) is a groundbreaking database system engineered for extreme efficiency in storage, query performance, and reliability. Designed primarily for machine-driven workloads in resource-constrained environments—such as edge devices, IoT systems, portable AI, and large-scale analytics—the U.P.M.D shifts away from human-centric designs (e.g., SQL schemas) to prioritize binary encoding, hardware-native operations, neural embeddings, and self-optimizing structures.
@@ -186,22 +196,26 @@ See UPMD_Testing_Scenarios.md for details.
 - Hardware dependency.
 - High development complexity.
 
-## Contributing
-1. Fork the repo.
-2. Create a branch: git checkout -b feature/xyz.
-3. Commit changes: git commit -m 'Add feature'.
-4. Push: git push origin feature/xyz.
-5. Open a Pull Request.
+## Contribution Policy
 
-### Follow CODE_OF_CONDUCT.md.
+Feedback, bug reports, and suggestions are welcome.
+
+You may submit:
+
+- Issues
+- Design feedback
+- Pull requests for review
+
+However:
+
+- Contributions do not grant any license or ownership rights
+- The author retains full discretion over acceptance and future use
+- Contributors receive no rights to reuse, redistribute, or derive from this code
+
+---
 
 ## License
-This project is licensed under the MIT License - see LICENSE for details.
+This project is not open-source.
 
-Contact
-Email: leonpriest76@gmail.com
-Issues: GitHub Issues
-Discussions: GitHub Discussions
-
-Acknowledgements
-Inspired by advancements in AI/hardware integration. Thanks to any contributors for design insights.
+It is licensed under a private evaluation-only license.
+See LICENSE.txt for full terms.
